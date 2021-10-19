@@ -11,5 +11,5 @@
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/angular.svg" height="auto" width="50">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/laravel.svg" height="auto" width="50">
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/symfony.png" height="auto" width="60">
-<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/codeigniter.png" height="auto" width="50">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/yii.png" height="auto" width="50">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/codeigniter.png" height="auto" width="50">&nbsp;
+<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/yii.png" height="auto" width="50">
