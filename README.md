@@ -1,16 +1,14 @@
 ### Hi there 👋
+- PHP & Angular Expert!💻
+- 6+ years of experience! ⚡🔥
+- Just became a dad!💖👨
+- Available full time remotely! 👋🏠
+- Loyal soccer fan! ⚽🏆
 
-<!--
-**johncui48/johncui48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills and Technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/react.svg" height="auto" width="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/vue.png" height="auto" width="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/node.js.svg" height="auto" width="60">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/django.png" height="auto" width="90">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/ror.png" height="auto" width="60">&nbsp;&nbsp;&nbsp;
