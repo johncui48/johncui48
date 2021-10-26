@@ -8,7 +8,7 @@
 ### Languages & Frameworks
 
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/php.png" height="auto" width="50">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/angular.svg" height="auto" width="50">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/johncui48/johncui48/main/angular.svg" height="48" width="48">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/laravel.svg" height="auto" width="50">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/wp.png" height="auto" width="50">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/johncui48/johncui48/main/symfony.png" height="52" width="52">&nbsp;
