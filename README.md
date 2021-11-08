@@ -1,8 +1,9 @@
 ### Hi there 👋
 - PHP & Angular Expert!💻
-- 6+ years of experience! ⚡🔥
+- Pro in WordPress, Laravel, Codeigniter, Symfony, Yii2!⚡
+- Full-stack Developer over 6 years !🔥
 - Just became a dad!💖👨
-- Available full time remotely! 👋🏠
+- Available full time remotely!🏠
 - Loyal soccer fan! ⚽🏆
 
 ### Languages & Frameworks
