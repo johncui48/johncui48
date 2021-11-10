@@ -9,7 +9,7 @@
 - Loyal soccer fan ⚽🏆 
 
 #### Connect with me
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheri-tsao/" height="25" width="30" />
+<a href="https://www.linkedin.com/in/johncui48/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johncui48/" height="25" width="30" style="max-width: 100%;"></a>
 
 
 #### Frontend 
