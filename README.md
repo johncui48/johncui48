@@ -1,13 +1,14 @@
-<h3 align="center">Hi 👋, I'm John Cui🌱</h3>
+## Hi 👋, I'm John Cui🌱
 
-- Full stack <strong>PHP</strong> Developer!💻 <br/>
-- <strong>WORDPRESS</strong> Pro!🔥 <br/>
-- Strong at <strong>MVC, TDD, BDD</strong> Development⚡ <br/>
-- Just became a dad!💖👨 <br/>
-- Available full time remote position!🏠🚦 <br/>
-- Loyal soccer fan! ⚽🏆 <br/>
+#### About Me 
+- <strong>Full Stack PHP</strong> Developer 💻
+- <strong>WORDPRESS</strong> Pro 🔥
+- Strong at <strong>MVC, TDD, BDD</strong> Development ⚡
+- Available full time remote position 🏠🚦 
+- Just became a dad 💖👨 
+- Loyal soccer fan ⚽🏆 
 
-<h4 align="left">Connect with me:</h4>
+#### Connect with me
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheri-tsao/" height="30" width="40" />
 
 
