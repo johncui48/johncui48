@@ -3,10 +3,10 @@
 #### About Me 
 - <strong>Full Stack PHP</strong> Developer 💻
 - <strong>WORDPRESS</strong> Pro 🔥
-- Strong at <strong>MVC, TDD, BDD</strong> Development ⚡
-- Available full time remote position 🏠🚦 
-- Just became a dad 💖👨 
-- Loyal soccer fan ⚽🏆 
+- Strong at <strong>Frontend</strong> Skills ⚡
+- Available Full time Remote Position 🏠🚦 
+- Just Became a Dad 💖👨 
+- Loyal Soccer Fan ⚽🏆 
 
 #### Connect with me
 <a href="https://www.linkedin.com/in/johncui48/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johncui48/" height="25" width="30" style="max-width: 100%;"></a>
