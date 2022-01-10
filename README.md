@@ -3,8 +3,9 @@
 #### About Me 
 - <strong>Full Stack PHP</strong> Developer 💻
 - <strong>WORDPRESS</strong> Pro 🔥
-- Strong at <strong>Frontend</strong> Skills ⚡
-- Available Full time Remote Position 🏠🚦 
+- Strong at <strong>Shopify & Frontend</strong> Skills ⚡
+- Expertise in Laravel, Codeigniter, React.js, Symfony 🚦
+- Available Full time Remote Position 🏠 
 - Just Became a Dad 💖👨 
 - Loyal Soccer Fan ⚽🏆 
 
